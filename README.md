@@ -64,7 +64,7 @@ Apply label: healthcare
 
 ### 2. Zapier — Automation Flow
 
-![Zapier Flow](./screenshots/Autoclaims1.png)
+![Zapier Flow](./screenshot/Autoclaims1.png)
 
 | Step | App | Action |
 |------|-----|--------|
